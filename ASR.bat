@@ -28,7 +28,7 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 :--------------------------------------   
-echo Windows Automatic Fix Tool v1.1
+echo Windows Automatic Fix Tool
 echo Written by Arsen
 echo.
 echo NOTICE: THIS OPEN SOURCE TOOL IS A SCRIPT DESIGNED TO AUTOMATE COMMON TASKS USED BY IT PROFESSIONALS
